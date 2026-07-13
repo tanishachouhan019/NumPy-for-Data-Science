@@ -1,54 +1,181 @@
-# 🚀 NumPy 30-Day Learning Challenge
+# 📊 NumPy Learning Journey – 8 Days Challenge
 
-Welcome to my NumPy learning journey! 📊
+<div align="center">
 
-This repository contains my day-wise progress while learning NumPy from basics to advanced concepts.
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-Library-013243?style=for-the-badge\&logo=numpy)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-## 📅 Roadmap
+### 🚀 Mastering NumPy through Hands-on Practice and Assignments
 
-| Day | Topic |
-|------|--------|
-| Day 1 | Introduction to NumPy & Arrays |
-| Day 2 | Array Creation Methods |
-| Day 3 | Array Attributes & Data Types |
-| Day 4 | Indexing & Slicing |
-| Day 5 | Iterating Arrays |
-| Day 6 | Array Copy vs View |
-| Day 7 | Array Shapes & Reshaping |
-| Day 8 | Joining Arrays |
-| Day 9 | Splitting Arrays |
-| Day 10 | Searching Arrays |
-| Day 11 | Sorting Arrays |
-| Day 12 | Filtering Arrays |
-| Day 13 | Mathematical Operations |
-| Day 14 | Aggregation Functions |
-| Day 15 | Statistical Functions |
-| Day 16 | Broadcasting |
-| Day 17 | Random Module Basics |
-| Day 18 | Random Distributions |
-| Day 19 | Matrix Operations |
-| Day 20 | Linear Algebra |
-| Day 21 | Universal Functions (ufuncs) |
-| Day 22 | Vectorization |
-| Day 23 | Advanced Indexing |
-| Day 24 | Boolean Masking |
-| Day 25 | Structured Arrays |
-| Day 26 | File Handling with NumPy |
-| Day 27 | Performance Optimization |
-| Day 28 | Mini Project 1 |
-| Day 29 | Mini Project 2 |
-| Day 30 | Final Project & Revision |
+*A complete beginner-friendly NumPy learning repository containing notes, examples, coding exercises, and assignments.*
 
-## 🎯 Goal
+</div>
 
-- Learn NumPy from scratch
-- Build strong Python fundamentals
-- Prepare for Data Science & AI/ML
-- Create practical projects
+---
 
-## 👩‍💻 Author
+# 📌 About This Repository
 
-**Tanisha Chouhan**  
-B.Tech CSE (AI/ML) Student | Python Learner | Future AI Engineer
+This repository documents my 8-day journey of learning **NumPy**, the fundamental library for numerical computing in Python.
 
-⭐ Star the repository if you find it useful!
+I completed the core NumPy concepts in **4 days** and spent the next **4 days** solving assignments and practicing problems to strengthen my understanding.
+
+The goal of this repository is to demonstrate consistent learning, hands-on coding, and practical implementation of NumPy concepts.
+
+---
+
+# 🎯 Learning Timeline
+
+| Days    | Topics                                                      |
+| ------- | ----------------------------------------------------------- |
+| Day 1–4 | Learned NumPy fundamentals and core concepts                |
+| Day 5–8 | Solved assignments, coding exercises, and practice problems |
+
+---
+
+# 📚 Topics Covered
+
+* Introduction to NumPy
+* Installing NumPy
+* Creating Arrays
+* Array Dimensions
+* Data Types
+* Array Indexing
+* Array Slicing
+* Array Reshaping
+* Iterating Through Arrays
+* Joining Arrays
+* Splitting Arrays
+* Searching Arrays
+* Sorting Arrays
+* Filtering Arrays
+* Copy vs View
+* Shape and Size
+* Mathematical Operations
+* Statistical Functions
+* Broadcasting
+* Random Module
+* Linear Algebra Basics
+
+---
+
+# 💻 Assignments Completed
+
+This repository includes practical assignments covering:
+
+* Array Creation
+* Indexing & Slicing
+* Mathematical Operations
+* Matrix Manipulation
+* Broadcasting
+* Statistics
+* Searching & Sorting
+* Filtering
+* Real-world Practice Problems
+
+---
+
+# 🛠️ Technologies Used
+
+* Python 3
+* NumPy
+* Jupyter Notebook / Google Colab
+* VS Code
+
+---
+
+# 📂 Repository Structure
+
+```text
+📦 NumPy-Learning
+├── Day-01
+├── Day-02
+├── Day-03
+├── Day-04
+├── Assignments
+├── Practice
+└── README.md
+```
+
+---
+
+# 🎯 Skills Gained
+
+* Numerical Computing
+* Array Manipulation
+* Matrix Operations
+* Data Analysis Fundamentals
+* Problem Solving
+* Python Programming
+* Logical Thinking
+
+---
+
+# 🚀 How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
+
+Navigate to the project:
+
+```bash
+cd your-repository-name
+```
+
+Install NumPy:
+
+```bash
+pip install numpy
+```
+
+Run any Python file or Jupyter Notebook.
+
+---
+
+# 📈 What I Learned
+
+Through this learning journey, I developed a strong understanding of:
+
+* Efficient array operations
+* High-performance numerical computing
+* Data manipulation techniques
+* Writing clean and optimized Python code
+* Solving practical programming exercises using NumPy
+
+---
+
+# 🌱 Next Learning Goals
+
+* Pandas
+* Matplotlib
+* Data Cleaning
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+* Machine Learning
+
+---
+
+# 👩‍💻 Author
+
+**Tanisha Chouhan**
+
+🎓 B.Tech CSE (AI & ML)
+
+💻 Python Developer | AI/ML Learner | Open Source Enthusiast
+
+> *"Consistency beats intensity. Small progress every day leads to big achievements."*
+
+---
+
+## ⭐ Support
+
+If you found this repository helpful:
+
+* ⭐ Star this repository
+* 🍴 Fork it
+* 📢 Share it with others
+
+Thank you for visiting my learning journey!
